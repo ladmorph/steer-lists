@@ -1,23 +1,27 @@
 {
-  "version": "2026-09-29_10-42",
-  "generated_at": "2026-09-29T10:42:28Z",
+  "version": "2026-09-29_10-58",
+  "generated_at": "2026-09-29T10:58:00Z",
   "base_url": "https://raw.githubusercontent.com/ladmorph/steer-lists/main/lists",
   "categories": [],
   "domain_lists": [
     {
       "id": "chatgpt",
       "kind": "domains",
-      "name_ru": "ChatGPT",
+      "name_ru": "ChatGPT (OpenAI)",
       "file": "chatgpt.lst",
       "count": 8,
+      "source": "ladmorph/steer-lists",
+      "source_name": "Мои списки (ИИ-сервисы)",
       "default_on": false
     },
     {
       "id": "claude",
       "kind": "domains",
-      "name_ru": "Claude",
+      "name_ru": "Claude (Anthropic)",
       "file": "claude.lst",
       "count": 4,
+      "source": "ladmorph/steer-lists",
+      "source_name": "Мои списки (ИИ-сервисы)",
       "default_on": false
     }
   ]
